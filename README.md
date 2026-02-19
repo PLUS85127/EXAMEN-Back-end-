@@ -137,8 +137,16 @@ creación de tarea
 tarea marcada como hecha
 
 
-En la imagen 1 se presenta el ingreso de los atributos de una nueva tarea. Dicha tarea es registrada y almacenada por la API del backend
-![Imagen 1: Creación o agregación de una tarea.](images/image1.jpeg)
+---
+
+## Evidencias visuales
+
+- En la primer imagen se muestra el ingreso de los atributos de una tarea
+- En la imagen dos muestra se muestran las tareas agregadas.
+- Tercer imagen se observa la eliminación de una tarea.
+
+  
+![Imagen 1: Ingreso de una tarea.](images/image1.jpeg)
 
 ![Imagen 2: Creación o agregación de una tarea.](images/image2.jpeg)
 
